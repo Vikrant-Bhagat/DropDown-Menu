@@ -1,0 +1,1 @@
+A drop-down menu is a fundamental component of web design. By building one from scratch, you'll gain valuable experience in HTML and CSS to create a navigation menu that can expand and collapse as needed. This project lays the foundation for more complex navigation systems in the future.
